@@ -17,6 +17,9 @@ const teacherSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
+      address: {
+      type: String,
+    },
     subject: {
       type: String,
       required: true,
