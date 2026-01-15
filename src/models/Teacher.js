@@ -28,6 +28,9 @@ const teacherSchema = new mongoose.Schema(
 expertise_in: {
       type: String,
     },
+experience:{
+type:number,
+}
   },
   { timestamps: true }
 );
