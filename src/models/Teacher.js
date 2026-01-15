@@ -29,7 +29,7 @@ expertise_in: {
       type: String,
     },
 experience:{
-type:number,
+type:Number,
 }
   },
   { timestamps: true }
