@@ -24,7 +24,10 @@ const teacherSchema = new mongoose.Schema(
       type: String,
       required: true,
       trim: true,
-    }
+    },
+expertise_in: {
+      type: String,
+    },
   },
   { timestamps: true }
 );
