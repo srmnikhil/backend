@@ -1,4 +1,4 @@
-# 🚀 Backend Service  
+# 🚀 School Website Backend  
 
 A steady, well-built backend — the kind your grandparents would trust, and your future self will thank you for.  
 It hums quietly, carries the weight, and keeps everything from collapsing like a badly balanced house of cards.
