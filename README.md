@@ -14,6 +14,7 @@ This backend handles:
 - REST API endpoints  
 - Add Teacher functionality 
 - Add Users Functionality 
+- Getting appointment functionality 
 
 In short — it does the real work while the frontend takes the applause.
 
