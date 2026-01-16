@@ -12,6 +12,7 @@ This backend handles:
 - Data processing  
 - Database communication  
 - REST API endpoints  
+- Add Teacher functionality 
 
 In short — it does the real work while the frontend takes the applause.
 
