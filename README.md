@@ -1,17 +1,18 @@
-# 🏫 School Website Backend  
+# School Website Backend  
 
-Behind every smooth website is a powerful backend — and this is exactly that. While users interact with a clean interface, this system works tirelessly behind the scenes, making sure everything runs like a well-tuned machine.
+A scalable and maintainable backend service designed for a school management system.
 
-## What it Handles  
+## Responsibilities  
 
-- Core business logic  
-- Secure data processing  
-- MongoDB database operations  
-- REST API communication  
-- Teacher and user management  
-- Appointment scheduling and retrieval  
+- Implemented business logic  
+- Designed RESTful APIs  
+- Integrated MongoDB database  
+- Built endpoints for:  
+  - Adding teachers  
+  - Registering users  
+  - Managing appointments  
 
-## Built With  
+## Technologies Used  
 
 - Node.js  
 - Express.js  
