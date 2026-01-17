@@ -1,21 +1,17 @@
-# 🌙 School Website Backend  
+# School Website Backend  
 
-Like the hidden foundation beneath a grand structure, this backend carries the weight of the system with quiet strength. It breathes logic, moves data, and keeps everything in balance while remaining unseen.
+A backend service that manages data, logic, and APIs for a school system.
 
-## 🧱 About the Project  
+## Features  
 
-This system:  
-- Governs business rules  
-- Shapes raw data into meaningful information  
-- Bridges communication with the database  
-- Exposes RESTful APIs  
-- Enables adding teachers  
-- Supports user management  
-- Handles appointments with precision  
+- Business logic processing  
+- Database communication  
+- REST API endpoints  
+- Add teachers  
+- Add users  
+- Manage and retrieve appointments  
 
-Built for stability, designed for endurance.
-
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - Node.js  
 - Express.js  
