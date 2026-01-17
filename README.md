@@ -1,17 +1,18 @@
-# 🏛️ School Website Backend  
+# ⚡ School Backend System  
 
-Like the sturdy beams of an old library, this backend stands firm and dependable. It preserves structure, maintains order, and ensures that every request is handled with care and precision.
+A high-performance backend that powers the school platform with speed, reliability, and scalability.
 
-## Core Functions  
+## Capabilities  
 
-- Business logic execution  
-- Reliable data processing  
-- Secure database interaction  
-- REST API services  
-- Teacher and user administration  
-- Appointment management  
+- Handles business rules  
+- Processes and stores data in MongoDB  
+- Exposes REST APIs  
+- Supports:  
+  - Adding teachers  
+  - Managing users  
+  - Scheduling appointments  
 
-## Technology  
+## Tech Stack  
 
 - Node.js  
 - Express.js  
