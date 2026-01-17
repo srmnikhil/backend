@@ -1,20 +1,18 @@
-# School Website Backend  
+# School Backend  
 
-A scalable and maintainable backend service designed for a school management system.
+A backend service that handles data, logic, and API communication for a school website.
 
-## Responsibilities  
+## Features  
 
-- Implemented business logic  
-- Designed RESTful APIs  
-- Integrated MongoDB database  
-- Built endpoints for:  
-  - Adding teachers  
-  - Registering users  
-  - Managing appointments  
+- Business logic  
+- Database management  
+- REST APIs  
+- Add teachers  
+- Add users  
+- Appointments  
 
-## Technologies Used  
+## Stack  
 
 - Node.js  
 - Express.js  
-- MongoDB  
-- REST APIs
+- MongoDB
