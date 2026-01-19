@@ -20,3 +20,4 @@ A high-performance backend that powers the school platform with speed, reliabili
 - REST APIs
 
 ## Future Goals
+- Role based login
