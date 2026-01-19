@@ -24,3 +24,4 @@ A high-performance backend that powers the school platform with speed, reliabili
 - Student login & Teacher Login
 - Fees Management
 - Announcement
+- Contact Us
