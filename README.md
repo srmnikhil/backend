@@ -18,3 +18,5 @@ A high-performance backend that powers the school platform with speed, reliabili
 - Express.js  
 - MongoDB  
 - REST APIs
+
+## Future Goals
