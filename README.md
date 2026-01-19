@@ -22,3 +22,4 @@ A high-performance backend that powers the school platform with speed, reliabili
 ## Future Goals
 - Role based login
 - Student login & Teacher Login
+- Fees Management
