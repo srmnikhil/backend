@@ -1,4 +1,4 @@
-# ⚡ School Backend System  
+# ⚡ School Backend Code
 
 A high-performance backend that powers the school platform with speed, reliability, and scalability.
 
