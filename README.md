@@ -25,3 +25,4 @@ A high-performance backend that powers the school platform with speed, reliabili
 - Fees Management
 - Announcement
 - Contact Us
+- Upload Syllabus 
